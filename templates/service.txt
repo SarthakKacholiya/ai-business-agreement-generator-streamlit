@@ -1,0 +1,24 @@
+BUSINESS SERVICE AGREEMENT
+
+This Service Agreement (“Agreement”) is made on {start_date} between {party1} (“First Party”) and {party2} (“Second Party”).
+
+1. Scope of Services
+{scope}
+
+2. Term
+This Agreement begins on {start_date} and ends on {end_date}.
+
+3. Compensation
+{compensation}
+
+4. Confidentiality
+Both parties agree to keep confidential any non-public information. Special terms (if any):
+{special_terms}
+
+5. Governing Law
+This Agreement shall be governed by the laws of {governing_law}.
+
+IN WITNESS WHEREOF, the parties execute this Agreement as of {today}.
+
+______________________________      ______________________________
+{party1}                             {party2}

@@ -1,0 +1,25 @@
+PARTNERSHIP AGREEMENT
+
+This Partnership Agreement is entered into by and between {party1} and {party2} on {start_date}.
+
+1. Purpose
+The Partners agree to collaborate on the following business purpose and activities:
+{scope}
+
+2. Capital & Profits
+Compensation / capital contributions and profit sharing:
+{compensation}
+
+3. Term and Termination
+This Agreement remains in effect from {start_date} to {end_date}, unless terminated earlier under mutual consent.
+
+4. Confidentiality & Non-Disclosure
+{special_terms}
+
+5. Governing Law
+This Agreement is governed by the laws of {governing_law}.
+
+Signatures (dated {today}):
+
+______________________________      ______________________________
+{party1}                             {party2}
